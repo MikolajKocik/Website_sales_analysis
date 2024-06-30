@@ -1,0 +1,9 @@
+ID województwo	Województwo	Region
+1	Mazowieckie	centralny
+2	Łódzkie	centralny
+3	Wielkopolskie	zachodni
+4	Lubuskie	zachodni
+5	Lubelskie	wschodni
+6	Małopolskie	południowy
+7	Świętokrzyskie	wschodni
+8	Pomorskie	północny

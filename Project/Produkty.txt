@@ -1,0 +1,17 @@
+ID produktu	Nazwa 	Kategoria	Podkategoria	Cena jednostkowa
+1	Apple iPhone 14 Pro Max	Smartfon	Apple	3499
+2	Samsung Galaxy S23 Ultra	Smartfon	Samsung	3989
+3	Xiaomi 13 Pro	Smartfon	Xiaomi	3299
+4	"Apple iPad Pro 12.9"" "	Tablet	Apple	3999
+5	Samsung Galaxy Tab S9 Ultra	Tablet	Samsung	2399
+6	"Huawei MatePad Pro 12.6"""	Tablet	Huawei	1399
+7	"Apple MacBook Pro 16"" "	Laptop	Apple	13004
+8	ASUS ZenBook 14 OLED	Laptop	ASUS	4199
+9	Acer Swift 5	Laptop	Acer	2499
+10	Apple Watch Series 8	Smartwatch	Apple	1299
+11	Samsung Galaxy Watch5 Pro	Smartwatch	Samsung	659
+12	Huawei Watch GT 3 Pro	Smartwatch	Huawei	860
+13	Samsung Odyssey G9	Monitor	Samsung	4689
+14	ASUS ProArt Display PA3290V	Monitor	ASUS	2949
+15	PlayStation 5	Konsola	PlayStation	1279
+16	Xbox Series X	Konsola	Xbox	1099

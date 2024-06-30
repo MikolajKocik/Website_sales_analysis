@@ -1,0 +1,16 @@
+ID miasto	Nazwa	ID województwo
+1	Sandomierz	7
+2	Piotrków Trybunalski	2
+3	Gdańsk	8
+4	Gdynia	8
+5	Gorzów Wielkopolski	4
+6	Radom	1
+7	Zakopane	6
+8	Kielce	7
+9	Kraków	6
+10	Zielona Góra	4
+11	Łódź	2
+12	Leszno	3
+13	Konin	3
+14	Poznań	3
+15	Warszawa	1

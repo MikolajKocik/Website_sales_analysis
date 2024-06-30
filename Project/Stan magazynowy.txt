@@ -1,0 +1,17 @@
+ID produktu,Nazwa produktu,Kategoria,Podkategoria,Cena jednostkowa,Ilość na stanie
+1,Apple iPhone 14 Pro Max,Smartfon,Apple,3499,0
+2,Samsung Galaxy S23 Ultra,Smartfon,Samsung,3989,0
+3,Xiaomi 13 Pro,Smartfon,Xiaomi,3299,5
+4,Apple iPad Pro 12.9",Tablet,Apple,3999,10
+5,Samsung Galaxy Tab S9 Ultra,Tablet,Samsung,2399,15
+6,Huawei MatePad Pro 12.6",Tablet,Huawei,1399,20
+7,Apple MacBook Pro 16",Laptop,Apple,13004,5
+8,ASUS ZenBook 14 OLED,Laptop,ASUS,4199,8
+9,Acer Swift 5,Laptop,Acer,2499,12
+10,Apple Watch Series 8,Smartwatch,Apple,1299,14
+11,Samsung Galaxy Watch5 Pro,Smartwatch,Samsung,659,16
+12,Huawei Watch GT 3 Pro,Smartwatch,Huawei,860,3
+13,Samsung Odyssey G9,Monitor,Samsung,4689,9
+14,ASUS ProArt Display PA3290V,Monitor,ASUS,2949,8
+15,PlayStation 5,Konsola,PlayStation,1279,0
+16,Xbox Series X,Konsola,Xbox,1099,5
