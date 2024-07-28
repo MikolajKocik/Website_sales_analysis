@@ -37,13 +37,13 @@ This repository contains a detailed analysis of sales data for various products,
 ![Page 2](sandbox:/mnt/data/strona%202.PNG)
 
 ### Content:
-- **Locations:** Sandomierz, Piotrków Trybunalski, Gdańsk, Gdynia, Gorzów Wielkopolski, Radom, Zakopane, Kielce, Kraków, Zielona Góra, Łódź, Leszno, Konin, Poznań, Warsaw.
+- **Locations:** Sandomierz, Piotrków Trybunalski, Gdansk, Gdynia, Gorzów Wielkopolski, Radom, Zakopane, Kielce, Cracow, Zielona Góra, Lodz, Leszno, Konin, Poznan, Warsaw.
 - **Visualization:** ArcGIS Maps for the region and names, funnel chart, and slicer with buttons (new version).
 
 ### Analysis:
 - **City Sales:**
-  - **Warsaw and Kraków:** Highest sales compared to other cities.
-  - **Gdańsk, Gdynia, Poznań:** Moderate sales.
+  - **Warsaw and Cracow:** Highest sales compared to other cities.
+  - **Gdansk, Gdynia, Poznan:** Moderate sales.
   - **Other Cities:** Lower but stable sales.
 - **Insights:**
   - Cities like Warsaw and Kraków exhibit higher demand, necessitating larger stock and more intensive marketing efforts.
