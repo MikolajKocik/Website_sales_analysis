@@ -154,3 +154,5 @@ The analysis of the data contained in the uploaded images indicates complex sale
 - **Popular Products:** Identifying best-selling models helps in better inventory management and planning promotions.
 
 These insights can be used to optimize sales strategies, marketing campaigns, and inventory management to better meet customer needs and preferences.
+
+Comments: Txt files to Project.pbix are made in Polish language also the visualizations.
