@@ -14,7 +14,7 @@ This repository contains a detailed analysis of sales data for various products,
 - [Summary](#summary)
 
 ## Page 1
-![Page 1](sandbox:/mnt/data/strona%201.PNG)
+![Page 1](img/strona%201.PNG)
 
 ### Content:
 - **Products:** Consoles, laptops, monitors, smartphones, smartwatches, tablets.
@@ -34,7 +34,7 @@ This repository contains a detailed analysis of sales data for various products,
   - Promotions and new model releases can significantly impact sales growth.
 
 ## Page 2
-![Page 2](sandbox:/mnt/data/strona%202.PNG)
+![Page 2](img/strona%202.PNG)
 
 ### Content:
 - **Locations:** Sandomierz, Piotrków Trybunalski, Gdansk, Gdynia, Gorzów Wielkopolski, Radom, Zakopane, Kielce, Cracow, Zielona Góra, Lodz, Leszno, Konin, Poznan, Warsaw.
@@ -50,7 +50,7 @@ This repository contains a detailed analysis of sales data for various products,
   - Regions with lower sales may require analysis to identify causes and adjust marketing strategies.
 
 ## Page 3
-![Page 3](sandbox:/mnt/data/strona%203.PNG)
+![Page 3](img/strona%203.PNG)
 
 ### Content:
 - **Regions:** Central, southern, northern, eastern.
@@ -65,7 +65,7 @@ This repository contains a detailed analysis of sales data for various products,
   - Analyzing the reasons for lower demand in other regions can help better understand local markets and adjust sales strategies.
 
 ## Page 4
-![Page 4](sandbox:/mnt/data/strona%204.PNG)
+![Page 4](img/strona%204.PNG)
 
 ### Content:
 - **Payment Methods:** BLIK, bank transfer, PayPo, PayPal.
@@ -82,7 +82,7 @@ This repository contains a detailed analysis of sales data for various products,
   - Analyzing payment method preferences can help tailor offers and promotions to better meet customer needs.
 
 ## Page 5
-![Page 5](sandbox:/mnt/data/strona%205.PNG)
+![Page 5](img/strona%205.PNG)
 
 ### Content:
 - **Subcategories:** Various product subcategories.
@@ -98,7 +98,7 @@ This repository contains a detailed analysis of sales data for various products,
   - Understanding which subcategories are most popular in specific quarters can help in better inventory planning and marketing campaigns.
 
 ## Page 6
-![Page 6](sandbox:/mnt/data/strona%206.PNG)
+![Page 6](img/strona%206.PNG)
 
 ### Content:
 - **Products:** Apple Watch Series 8, Huawei Watch GT 3 Pro, Apple iPhone 14 Pro Max, Xbox Series X, Samsung Galaxy S23 Ultra.
@@ -115,7 +115,7 @@ This repository contains a detailed analysis of sales data for various products,
   - Analyzing sales of specific models helps understand which products are most popular and may require greater market availability.
 
 ## Page 7
-![Page 7](sandbox:/mnt/data/strona%207.PNG)
+![Page 7](img/strona%207.PNG)
 
 ### Content:
 - **Top Products:** Data on best-selling products.
@@ -132,7 +132,7 @@ This repository contains a detailed analysis of sales data for various products,
   - Interactivity between the pie charts and the table allows dynamic updates based on selections.
 
 ## Page 8
-![Page 8](sandbox:/mnt/data/strona%208.PNG)
+![Page 8](img/strona%208.PNG)
 
 ### Content:
 - **Detailed Analysis:** Sales of selected products (Samsung Galaxy Tab S, Apple Watch Series 8).
@@ -155,4 +155,4 @@ The analysis of the data contained in the uploaded images indicates complex sale
 
 These insights can be used to optimize sales strategies, marketing campaigns, and inventory management to better meet customer needs and preferences.
 
-Comments: Txt files to Project.pbix are made in Polish language also the visualizations.
+*Comments*: Txt files to Project.pbix are made in Polish language also the visualizations.
