@@ -156,3 +156,4 @@ The analysis of the data contained in the uploaded images indicates complex sale
 These insights can be used to optimize sales strategies, marketing campaigns, and inventory management to better meet customer needs and preferences.
 
 *Comments*: Txt files to Project.pbix are made in Polish language also the visualizations.
+You can download the project by clicking "view raw" in the project.pbix field.
