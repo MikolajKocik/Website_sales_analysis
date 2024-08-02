@@ -157,3 +157,4 @@ These insights can be used to optimize sales strategies, marketing campaigns, an
 
 *Comments*: Txt files to Project.pbix are made in Polish language also the visualizations.
 You can download the project by clicking "view raw" in the project.pbix field.
+Also, for all txt files to load correctly, you need to change the file addresses after downloading to your own desktop in power BI using "Transform Data". Then, information will pop up on the right side about the wrong path, which should be changed taking into account your own where the files were downloaded.
